@@ -1,0 +1,502 @@
+
+.head{
+    background: linear-gradient(to right, rgba(255, 166, 0, 0.799), rgb(233, 35, 183));
+    height: 50px;
+}
+.div0{
+    display: flex;
+    justify-content: space-between;   
+    height: 50px;
+
+}
+.div1{
+    margin-left: 70px;
+}
+.div2{
+    display: flex;
+    padding-right: 50px;
+}
+.div3{
+    border: 0ex solid ;
+    padding-top: 5px;
+}
+.div4{
+    border: 0px solid ;
+    padding-top: 8px;
+}
+.div5{
+    border: 0px solid ;
+    margin-left: 70px;
+}
+.i1{
+    color: rgb(232, 232, 232);
+    border-left: 1px solid white;
+}
+.i2{
+    border-left: 1px solid white;
+}
+.i3{
+    border-left: 1px solid white;
+}
+.i4{
+    border-left: 1px solid white;
+}
+.i5{
+    border-left: 1px solid white;
+}
+.i6{
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+}
+svg{
+    color: white;
+    padding: 17px 12px;
+    width: 14px;
+}
+.p1{
+    display: flex;
+    color: white;
+    font-size: small;
+}
+.p2{
+    display: flex;
+    color: white;
+    font-size: small;
+}
+.q1{
+    display: flex;
+}
+.p5{
+    color: white;
+    padding-left: 10px;
+    padding-right: 6px;
+}
+.btn1{
+    border: 2px solid white;
+    background-color: #ffffff00;
+    border-radius: 20px;
+    height: 35px;
+    width: 140px;
+    color: white;
+    font-weight: bold;
+}
+.svq1{
+    position: relative;
+    bottom: 5px;
+}
+.d0{
+    display:flex ;
+    justify-content: space-between;
+
+}
+.d2{
+    display: flex;
+    width: 290px;
+    position: relative;
+    left: 80px;
+    top: 05px;
+    font-size:small;
+    font-weight: bolder;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.h123{
+    position: relative;
+    top: 8px;
+    font-weight: bolder;
+}
+.d3{
+    display: flex;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: small;
+    font-weight:lighter;
+    gap: 25PX;
+    justify-content: center;
+    position: relative;
+    top: 15px;
+    left: 20px;
+
+   
+
+}
+.d17{
+    background-color: rgb(234, 186, 30);
+    position: relative;
+    right: 83px;
+    padding: 15px 5px;
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: small;
+}
+.d4{
+    display: flex;
+    border: 1px solid;
+    background-color: black;
+    justify-content: center;
+    padding-top: 17px;
+    position: relative;
+    right: 95px;
+}
+.pic1{
+    width:1500px;
+    height: 700px;
+    position: relative;
+    filter:blur(1px);
+}
+.txt1{
+    position: absolute;
+    left: 240px;
+    bottom: 100px;
+
+}
+.dv111{
+   height: 300px;
+   width: 5px;
+   background: linear-gradient( orange , rgb(244, 42, 146));
+   position: relative;
+    left: 200px;
+    bottom: 480px;
+}
+.txt2{
+    color: rgba(255, 255, 255, 0.718);
+    letter-spacing: 1em;
+    font-weight: bold;
+   
+}
+.txt3{
+    color: rgba(255, 255, 255, 0.749);
+    display: inline-block;
+    position: relative;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    right: 63px;
+    font-size: 50px;
+    transform: scale(.8, 1);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.txt4{
+    color: rgba(255, 255, 255, 0.804);
+
+}
+.btn6{
+    border: none;
+    color: white;
+    width: 120px;
+    height: 40px;
+    background:linear-gradient(to right,orange, rgba(214, 24, 157, 0.916));
+    border-radius: 20px;
+    margin-top: 20px;
+    
+
+}
+.btn8{
+    border: 2px solid rgba(255, 252, 252, 0.83);
+    color: rgba(255, 255, 255, 0.845);
+    width: 180px;
+    height: 40px;
+    background-color: rgba(255, 255, 255, 0);
+    border-radius: 20px;
+    padding-top: 5px;
+    margin-left: 10px;
+    
+}
+.cc{
+    height:699px;
+}
+.he{
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    justify-content: space-around;
+    bottom:2px;
+    width: 1500px;
+    height: 225px;
+    background: linear-gradient(to right, rgb(228, 160, 33), rgb(206, 29, 135));
+    
+
+}
+.he2{
+    width:250px;
+    height:200px;
+    padding: 50px;
+    padding-left: 200px;
+
+}
+.he3{
+    width:250px;
+    height:200px;
+    padding: 50px;
+
+
+}
+.he4{
+    width:250px;
+    height:200px;
+ 
+    padding: 50px;
+    padding-right: 250px;
+
+
+}
+.ic{
+    display: flex;
+    position: relative;
+    width: 50px;
+    height: 50px;
+    
+
+
+}
+.hea{
+    display: flex;
+    position: relative;
+    bottom: 40px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    color: white;
+    left: 80px;
+}
+.la{
+    background-color: #ffffff00;
+    border-radius: 50%;
+    color: white;
+    border: 1px solid white;
+    
+
+}
+.con{
+    color: white;
+    text-align: justify;
+    font-size: small;
+
+}
+.tb{
+    display: flex;
+    height: 490px;
+ 
+   
+
+}
+.tb1{
+    width: 200px;
+    border: 0px solid black;
+    height: 500px;
+    
+}
+.tb2{
+    width: 700px;
+    border: 0px solid black;
+    height: 500px;
+}
+.tb3{
+    width: 600px;
+    border: 0px solid black;
+    height: 500px;
+}
+
+
+.tb9{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 20px;
+    font-size: xx-large;
+    font-weight: 400;
+
+}
+.tb8{
+    padding-right: 50px;
+    position: relative;
+    bottom: 50px;
+    border: none;
+    background: linear-gradient(to right, orange, rgb(234, 75, 234));
+    margin-left: 20px;
+}
+.tbb1{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    position: relative;
+    bottom: 50px;
+    font-size: large;
+    padding-left: 20px;
+}
+.tbb2{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: smaller;
+    color: grey;
+    position: relative;
+    bottom: 50px;
+    word-spacing: 5px;
+    line-height: 30px;
+    padding-left: 20px;
+}
+.bb{
+    border-radius: 20px;
+    color: white;
+    border: none;
+    background:linear-gradient(to right,orange,rgb(224, 63, 224));
+    padding:8px;
+    height: 40px;
+    width: 110px;
+    position: relative;
+    left: 22px;
+    bottom: 30px;
+   
+}
+.tb45{
+    padding-top: 20px;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 20px;
+    border: none;
+
+
+}
+.tv1{
+    width: 41px;
+    height: 5px;
+    background-color: orange;
+    position: relative;
+    top: 180px;
+
+    border: none;
+}
+.tv2{
+    width: 5px;
+    height: 50px;
+    background-color: orange;
+    position: relative;
+    top: 180px;
+    border: none;
+}
+.tv3{
+    width: 350px;
+    height: 5px;
+    background: linear-gradient(to right, orange,rgb(227, 40, 227));
+    position: relative;
+    top: 180px;
+    border: none;
+}
+.tv4{
+    width: 5px;
+    height: 50px;
+    background-color: rgb(226, 50, 206);
+    position: relative;
+    top: 125px;
+    left: 345px;
+    border: none;
+}
+.tv5{
+    width: 34px;
+    height: 5px;
+    background-color: rgb(222, 64, 180);
+    position: relative;
+    top: 75px;
+    left: 312px;
+    
+    border: none;
+}
+.tdk{
+    position: absolute;
+    opacity: 5%;
+    
+}
+.pg0{
+    border: 0px solid black;
+    display: flex;
+    background-color: #e2e2e2db;
+    
+   
+}
+.pddd{
+    position: absolute;
+    opacity: 5%;
+}
+.pg1{
+     border: 0px solid black;
+        width: 1000px;
+        height: 400px;
+
+    
+
+}
+.ppf{
+    border: 0px solid black;
+    width: 210px;
+    height: 400px;
+   
+}
+.pg3{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: large;
+    padding-left: 15px;
+  
+}
+.pgp{
+    border: none;
+    width: 50px;
+    height: 3px;
+    background: linear-gradient(to right,orange,rgb(221, 57, 180));
+    position: relative;
+    bottom: 25px;
+    left: 15px;
+}
+.pg5{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.pp1{
+    border: 1px solid rgb(233, 232, 232);
+    width: 315px;
+    height: 230px;
+   
+}
+.pp2{
+    border: 0px solid black;
+    width: 315px;
+    height: 230px;
+}
+.pp3{
+    border: 0px solid black;
+    width: 315px;
+    height: 230px;
+}
+.pl1{
+    border: 1px solid rgb(186, 185, 185);
+    width: 214px;
+    height: 40px;
+    position: relative;
+    left: 100px;
+    bottom: 30px;
+    background-color: white;
+    box-shadow: 1px 1px 2px 0px rgb(133, 132, 132);
+    text-align: center;
+    
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.h00{
+    position: relative;
+    bottom: 10px;
+}
+.icon1{
+    border: 0px solid black;
+    background: linear-gradient(to right,  orange, rgb(231, 26, 186));
+    width: 50px;
+    height: 50px;
+
+    position: relative;
+    bottom: 94px;
+    left: 90px;
+
+    border-radius: 50%;
+}
+.soo{
+    position: relative;
+    bottom: 6px;
+    width: 50px;
+    height: 25px;
+    right: 12px;
+}
+.ph1{
+    position: relative;
+}
